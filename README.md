@@ -28,7 +28,7 @@
 <table>
 
 <tr>
-  <td align="center" colspan="2"><a href="https://github.com/Faridreza"><img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=Faridreza&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
+  <td align="center" colspan="2"><a href="https://github.com/iFaridreza"><img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=iFaridreza&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
 </tr>
 
 
