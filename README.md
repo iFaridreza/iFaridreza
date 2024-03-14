@@ -14,7 +14,7 @@
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) </br>
 
 ## Skill & Tools
-<p align="center"><a href="https://github.com/Faridreza"><img src="https://skillicons.dev/icons?i=dotnet,cs,git,github,py,postman,sqlite,vscode,visualstudio,"></a>
+<p align="center"><a href="https://github.com/iFaridreza"><img src="https://skillicons.dev/icons?i=dotnet,cs,git,github,py,postman,sqlite,vscode,visualstudio,python"></a>
 
 # Contact Me
 
