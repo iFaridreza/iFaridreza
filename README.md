@@ -3,7 +3,7 @@
 # 👨‍💻 About Me :
 
 - 20 y.o
-- Backend Dev
+- Backend Programmer
 - Iran / Mashhad
 
 # 💻 Tech Stack:
