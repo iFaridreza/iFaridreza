@@ -1,16 +1,38 @@
-### Hi there 👋
+```cs
+// Hello World :)   
 
-<!--
-**iFaridreza/iFaridreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+internal class Profile
+{
+    internal string FirstName { get; set; }
+    internal string LastName { get; set; }
+    internal int YearBirth { get; set; }
+    internal int MonthBirth { get; set; }
+    internal int DayBirth { get; set; }
+    internal string Contry { get; set; }
+    internal string City { get; set; }
+    internal string About { get; set; }
+    internal List<string> Skills { get; set; }
 
-Here are some ideas to get you started:
+    internal Profile()
+    {
+        FirstName = "Faridreza";
+        LastName = "Bidkham";
+        YearBirth = 1382;
+        MonthBirth = 05;
+        DayBirth = 28;
+        Contry = "Iran";
+        City = "Mashhad";
+        About = "Junior Backend Programmer , Love Open Source";
+        Skills = new()
+        {
+            "CSharp",
+            "Python",
+            "ASP.NET [ Razor Pages , MVC ]",
+            "Data Base [ Sql Server , Sqlite ]",
+            "Telegram Bot [ Cli , Api ]",
+            "Git"
+        };
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
