@@ -34,6 +34,5 @@ internal class Profile
     }
 }
 
-![GitHub Contribution Snake](https://github.com/iFaridreza/iFaridreza/blob/output/github-contribution-grid-snake.svg)
 
 ```
