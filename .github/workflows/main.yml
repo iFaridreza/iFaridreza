@@ -1,0 +1,26 @@
+name: Generate Snake Game from GitHub Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.2.0
+        with:
+          github_user_name: iFaridreza
+
+      - name: Commit the Snake animation
+        run: |
+          git config --local user.name "iFaridreza"
+          git config --local user.email "Faridrezabidkham@gmail.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate new Snake animation"
+          git push
