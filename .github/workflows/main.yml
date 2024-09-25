@@ -21,6 +21,6 @@ jobs:
         run: |
           git config --local user.name "iFaridreza"
           git config --local user.email "Faridrezabidkham@gmail.com"
-          git add dist/github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake.svg
           git commit -m "Generate new Snake animation"
           git push
