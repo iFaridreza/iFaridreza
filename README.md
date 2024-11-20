@@ -12,19 +12,12 @@
 <p align="left">👑 **Experiences**</p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop logo" />
 </div>
 
 ### **Interests**
