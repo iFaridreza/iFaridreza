@@ -20,7 +20,4 @@
   <img width="12" />
 </div>
 
-### **Interests**
-I'm passionate about music 🎶, personal projects, and continuously growing as a developer. Whether it's coding, football, or gaming, I believe in balancing work and play to stay motivated and inspired!
-
 ---
