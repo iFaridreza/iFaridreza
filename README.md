@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">Hi there! I'm Faridreza, a junior backend developer based in Mashhad, Iran. I'm always eager to take on new challenges and learn new technologies. I specialize in C#, ASP.NET Core, and database development. In my free time, I enjoy coding personal projects, playing football, gaming, reading books, listening to podcasts, and exploring different types of music. I'm passionate about open source and always looking for opportunities to collaborate with others!</p>
+<p align="left">Hi there! I'm Faridreza, a junior backend developer based in Mashhad, Iran. I'm always eager to take on new challenges and learn new technologies. I specialize in C#, ASP.NET Core, and database development. In my free time, I enjoy working on personal coding projects, gaming, reading books, listening to podcasts, and vibing to rap music. I'm passionate about open source and always looking for opportunities to collaborate with others!</p>
 
 ###
 
